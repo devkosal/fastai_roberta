@@ -1,4 +1,10 @@
-# Working with ReCoRD Data
+# Superglue Tasks
+
+This directory contains notebooks for working with Superglue Tasks, CB, RTE and BoolQ. ReCoRD implementation is currently in experimentation mode. 
+
+
+
+### Working with ReCoRD Data
 
 Note, 10/04/2019: In order to work with the Record dataset, it's best viewed as a multi-label problem. You need to account for multiple possible entities as answers to any one question (fill in the blank, really). This is a tricky model to implement for a variety of reasons. Here are a few approaches which could be taken and their negative effects:
 
