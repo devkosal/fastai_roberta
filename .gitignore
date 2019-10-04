@@ -1,4 +1,6 @@
 merges.txt
 vocab.json
 **/.ipynb_checkpoints
-fastai_roberta_superglue/data
+**/data
+**/models
+*Scratch*
