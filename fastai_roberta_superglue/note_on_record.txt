@@ -1,6 +1,6 @@
 ### Working with ReCoRD Data
 
-Note, 10/04/2019: In order to work with the Record dataset, it's best viewed as a multi-label problem. You need to account for multiple possible entities as answers to any one question (fill in the blank, really). Here are a few modelling approaches which could be taken and their negative effects:
+Note, 10/04/2019: In order to work with the Record dataset, it's best either viewed as a binary label or a multi-label problem. You need to account for multiple possible entities as answers to any one question (fill in the blank, really). Here are a few modelling approaches which could be taken and their negative effects:
 
 - If you create multiple copies of a question and answer combinations ([CLS] + question + [SEP] + passage + [SEP] + entity) and turn it into a binary classification problem, you end up with a enormous dataset. (This is the approach implemented in this repository/notebook)
 
