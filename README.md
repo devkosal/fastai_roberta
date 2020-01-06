@@ -7,8 +7,8 @@ https://medium.com/@devkosal/superglue-roberta-with-fastai-for-rte-task-c362961b
 
 ### Requirements
 
-Python 3.7.3 or above 
+Python == 3.7.5
 
-fastai 1.0.55 or above
+fastai == 1.0.60
 
-transformers 1.1.0 or above
+transformers == 2.3.0
