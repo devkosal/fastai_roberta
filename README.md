@@ -11,4 +11,4 @@ Python 3.7.3 or above
 
 fastai 1.0.55 or above
 
-pytroch_transformers 1.1.0 or above
+transformers 1.1.0 or above
