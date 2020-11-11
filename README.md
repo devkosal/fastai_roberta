@@ -1,5 +1,5 @@
-#  Roberta with Fastai - Tutorials
-This is a collection of work pertinent to tutorials I have authored for integrating Roberta with fastai:
+#  Roberta with fast.ai - Tutorials
+This is a collection of work pertinent to tutorials I have authored for integrating Roberta with fast.ai:
 
 https://medium.com/@devkosal/using-roberta-with-fastai-for-nlp-7ed3fed21f6c
 
@@ -13,4 +13,4 @@ fastai == 1.0.60
 
 transformers == 2.3.0
 
-Update 2020.11: [Fastai has upgraded to v2](https://www.fast.ai/2020/08/21/fastai2-launch/) since the last update to this repo. For compatibility with the steps below, v2 remains untested. Therefore, [usage of v1](https://pypi.org/project/fastai/1.0.61/) is recommended for this repo.
+Update 2020.11: [fast.ai has upgraded to v2](https://www.fast.ai/2020/08/21/fastai2-launch/) since the last update to this repo. For compatibility with the steps below, v2 remains untested. Therefore, [usage of v1](https://pypi.org/project/fastai/1.0.61/) is recommended for this repo.
